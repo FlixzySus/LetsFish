@@ -1,0 +1,9 @@
+.theos/
+obj/
+packages/
+*.deb
+.DS_Store
+dump.cs
+global-metadata.dat
+*.ipa
+*.zip

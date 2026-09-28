@@ -1,0 +1,9 @@
+Package: com.flixzysus.letsfish2mod
+Name: LetsFish2 Mod Menu
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: Client-side mod menu for Let's Fish 2 (rootless / Dopamine)
+Maintainer: FlixzySus
+Author: FlixzySus
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
